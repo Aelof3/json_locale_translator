@@ -1,6 +1,10 @@
-# json_locale_translator
+# json_locale_translator  
 *created by: Richard Folea*
----
-This tool is for translating locale json files, such as with i18n
 
-enjoy :)
+```js
+/** 
+ * This tool is for translating locale json files, such as with i18n
+ * 
+ * enjoy :) 
+*/
+```
