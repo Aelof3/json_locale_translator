@@ -1,0 +1,37 @@
+{
+    "phrases": {
+        "hello": "Hello",
+        "world": "World"
+    },
+    "nested": {
+        "objects": {
+            "ball": "Ball",
+            "car": "Car",
+            "house": "House"
+        },
+        "fruits": {
+            "apple": "Apple",
+            "banana": "Banana",
+            "orange": "Orange"
+        },
+        "vegetables": {
+            "carrot": "Carrot",
+            "potato": "Potato",
+            "tomato": "Tomato"
+        },
+        "nestedAgain": {
+            "plants": {
+                "flower": "Flower",
+                "tree": "Tree",
+                "grass": "Grass",
+                "bush": "Bush"
+            },
+            "animals": {
+                "dog": "Dog",
+                "cat": "Cat",
+                "bird": "Bird",
+                "fish": "Fish"
+            }
+        }
+    }
+}

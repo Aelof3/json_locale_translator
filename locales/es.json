@@ -1,0 +1,37 @@
+{
+    "nested": {
+        "fruits": {
+            "apple": "Manzana",
+            "banana": "Banana",
+            "orange": "Naranja"
+        },
+        "nestedAgain": {
+            "animals": {
+                "bird": "Pájaro",
+                "cat": "Gato",
+                "dog": "Perro",
+                "fish": "Pez"
+            },
+            "plants": {
+                "bush": "Arbusto",
+                "flower": "Flor",
+                "grass": "Césped",
+                "tree": "Árbol"
+            }
+        },
+        "objects": {
+            "ball": "Pelota",
+            "car": "Auto",
+            "house": "Casa"
+        },
+        "vegetables": {
+            "carrot": "Zanahoria",
+            "potato": "Papa",
+            "tomato": "Tomate"
+        }
+    },
+    "phrases": {
+        "hello": "Hola",
+        "world": "Mundo"
+    }
+}
