@@ -26,9 +26,24 @@ options:
 
 ---
 
-### Example:
+## Run Translations
+
+Make sure en.json is up to date in the destination folder:
+
 ```bash
-$ python3.10 json_locale_translator.py -l es 
+pip3 install python-translator requests bs4
+
+python3.10 json_locale_translator.py [OPTS]
+```
+
+Alternatively, if you'd prefer to use [pipenv](https://pipenv.pypa.io/en/latest/), you can do the following:
+
+```bash
+pip3 install pipenv
+
+pipenv install --python=</path/to/python>
+
+pipenv run translate [OPTS]
 ```
 
 ### English locale file (locales/en.json):
